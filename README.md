@@ -52,7 +52,7 @@ La aplicación estará disponible en http://localhost:puerto, donde puerto es el
 ## Uso de la API
 
 A continuación, se detallan los endpoints disponibles para interactuar con la API:
-IMPORTANTE: Antes de realizar el `fetch()` a cualquier endpoint deben agregar antes del "/productos" la ruta que corresponda con el puerto asignado. Por ejemplo: http://localhost:3000/productos
+(IMPORTANTE Antes de realizar el `fetch()` a cualquier endpoint deben agregar antes del "/productos" la ruta que corresponda con el puerto asignado. Por ejemplo: http://localhost:3000/productos)
 
 ### Obtener todos los productos
 
